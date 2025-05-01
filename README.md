@@ -2,7 +2,7 @@
 
 Este proyecto es la interfaz frontend de un acortador de URLs, desarrollado con **React** y **Vite**. Ofrece una experiencia de usuario moderna e intuitiva para generar, copiar y visualizar URLs cortas.
 
-Repositorio del Backend: [https://github.com/jsancue/url-short-react](https://github.com/jsancue/url-shortener-sb)
+Repositorio del Backend: https://github.com/jsancue/url-shortener-sb
 
 ## 🚀 Características
 
