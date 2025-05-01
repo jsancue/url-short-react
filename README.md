@@ -69,13 +69,19 @@ La aplicación estará disponible en: `http://localhost:5173`
 
 ```
 src/
-├── components/       # Componentes reutilizables
-├── pages/            # Vistas del enrutador
-├── services/         # Lógica de integración con la API
-├── hooks/            # Hooks personalizados
-├── utils/            # Funciones auxiliares
-├── theme/            # Tema de Material UI
-└── main.jsx          # Punto de entrada
+├── api/             # Solicitudes a la API
+├── assets/          # Recursos estáticos (imágenes, íconos)
+├── components/      # Componentes reutilizables
+├── contextApi/      # Contextos de React para gestión global
+├── dummyData/       # Datos de prueba / simulación
+├── hooks/           # Hooks personalizados
+├── utils/           # Funciones auxiliares
+├── App.css
+├── App.jsx
+├── AppRouter.jsx
+├── PrivateRoute.jsx
+├── index.css
+└── main.jsx
 ```
 
 ## 🧑‍💻 Autor
